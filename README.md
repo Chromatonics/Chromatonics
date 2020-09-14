@@ -1,16 +1,22 @@
 ### Hi there 👋
 
 <!--
-**Chromatonics/Chromatonics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a driven, junior software developer looking to advance my career with an ambitious company. With a dedication to continuous skillset improvement, a strong understanding of core programming concepts and experienced with a wide range of languages, frameworks, and development philosophies; I will be an invaluable addition to any team. I have experience in:
+•	Agile/Scrum Methodology
+•	Python
+•	Object-Oriented Concepts
+•	Visual Studio
+•	SQL/MySQL/MS SQL Server
+•	TFS / Git
+•	Azure
+•	HTML5
+•	CSS3
+•	Java Script / jQuery
+•	Bootstrap
+ 
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: pallaslih6@gmail.com
+- Check out my website: chromatonik.com
 -->

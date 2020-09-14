@@ -16,5 +16,5 @@ I'm a driven, junior software developer looking to advance my career with an amb
 - 😄 Pronouns: He/Him
 
 - 📫 How to reach me: pallaslih6@gmail.com
-- Check out my website: chromatonik.com
+- Check out my website: https://www.chromatonik.com
 
